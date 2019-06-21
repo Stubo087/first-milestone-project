@@ -95,25 +95,37 @@ I copied and pasted all of my work across to this repositorie to finish.
   * Try to submit the form with an invalid email address and verify that a relevant error message appears
   * Try to submit the form with all inputs valid and verify that a success message appears
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+### Navigation and Footer
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
+* Navigation
+  * Try out each menu item on each page respectively
+  * Make sure they lead to the correct place and can easily find your way back to starting point
+  * Get another person to test this out for you
+* Footer
+  * Download
+    * Click the down load icon and make sure that a price list opens on a new page
+    * Get another person to test this out for you
+  * Social Media links
+    * Click each link to make sure they open in another page
+    * The only one working was facebook because Philip is still setting up the other Social media accounts and when they are done I can link them to the Icons
 
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+## Mobile Responsive
 
-Contact form:
-Go to the "Contact Us" page
-Try to submit the empty form and verify that an error message about the required fields appears
-Try to submit the form with an invalid email address and verify that a relevant error message appears
-Try to submit the form with all inputs valid and verify that a success message appears.
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+* Each page was checked by using the Inspect tool on the browser and then choosing the different screen sizes to mack sure that the page reduce accordingly
+* The HTML code was put through a validator every so often to make sure that it worked ok
+
 
 You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
-Deployment
+## Deployment
+
+In Cloud9 I deployed my project by pushing it in terminal window ( in bash ) to my Github repository named milestone-project-1 via the command line.  Each time an edit was done I would save it to my [GitHub](https://github.com/Stubo087/first-milestone-project.git)
+My GitHub page was built from the Master Branch.
+
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+
 
 In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
 
