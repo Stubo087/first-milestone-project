@@ -62,6 +62,39 @@ In this section, you should mention all of the languages, frameworks, libraries,
 The project uses JQuery to simplify DOM manipulation.
 
 ## Testing
+
+I started writing the code in this repositorie and then started trying out different things in another [Repositorie](https://github.com/Stubo087/navbar.git) and ended up doing most of the coding their.
+I copied and pasted all of my work across to this repositorie to finish.
+
+### index.html
+
+* Go to home page
+  * Click on the Facebook link at the top of page, make sure it opens link on a new page and goes to Philips facebook page
+  * Scroll down and make sure everything is in the right place
+  * Repeat this on different browsers
+
+### designs.html
+
+* Images
+  * Go to Designs page
+  * Click on each image and make sure it opens to a larger image
+  * Repeat this process on each image
+  * Scroll down, click on the contact fontawesome image, make sure it redirects you to the contact page
+
+### repair.html
+
+* Repair Service
+  * Go to Repair Service page
+  * Make sure that the video plays when you go to the page
+
+###  contact.html
+
+* Contact Form
+  * Go to Contact Us page
+  * Try to submit the empty form and verify that an error message about the required fields appears
+  * Try to submit the form with an invalid email address and verify that a relevant error message appears
+  * Try to submit the form with all inputs valid and verify that a success message appears
+
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
 Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
