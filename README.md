@@ -5,16 +5,21 @@ It will show case Philip himself and the work that he can do with old and new je
 
 The opening page of my project gives us a brief history about Philip and were he studied and trained over the years, which gives us a view into the amount of experience and talent he has. Also the image on top of every page
 shows Philip working on a piece of jewellery at his work station so who ever clicks on his webpage will have a visual to show them what it is about.
-On the 
+On the Designs page we get to see how a piece of jewellerey is made step by step. Repair page goes through all of the work that can be done by Philip and a video showing us aswell. On the footer there is a downloadable price
+list which gives customers an idea of what a repair is going to cost them. The last page is where people can get in contact with him and enquire about work they want done.
 
 ## UX
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
+This website is for people that are interested in getting there old jewellery redesigned into a new piece of jewellery or looking to get a bespoke piece of jewellery made. This website allows the customer tp see who he is and what
+he can do. It also gives the customer a visual experience with pictures and a video of him doing the work. The contact page allows customers to get in contact with him direct about work they want done or just a question about a piece of jewellery that they have.
+In the footer of every page there is a downloadable price list and links to his social pages where customers can see the work that he is working on at the moment.
 
-As a user type, I want to perform an action, so that I can achieve a goal.
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. 
-These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+* As a new customer I want to find out more about Philip himself
+* As a new customer I want to know what he is able to do, is he the person to redesign my piece of jewellery
+* As a new customer can I check what will it cost to fix my item of jewellery
+* As a new customer is it easy to get in contact with him
+* As a new customer I want to see worke he has done  
+
 
 ### Mockups
 * I did my mockups in Balsamiq click on each page and it will bring you to each mochup page 
@@ -40,6 +45,9 @@ Technologies Used
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
 ## Tech Used
+
+* Balsamiq
+  * This was used to do the mockups for the web page.
 
 * Cloud9
   * This was the software that I used to write the html, css and Readme files.
