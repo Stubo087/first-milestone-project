@@ -29,20 +29,35 @@ In the footer of every page there is a downloadable price list and links to his 
   * [Contact](https://balsamiq.cloud/sv1dkhs/pxziss6/rFCAE)
 
 ## Features
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
 
 ### Existing Features
-Feature 1 - allows users X to achieve Y, by having them fill out Z
-...
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+#### index.html
+* eye catching front page
+  * Picture of jewellery been fixed
+* Logo
+* About
+  * Information about Philip
+
+#### designs.html
+* Hand made Jewellery Gallery
+  * Pictures and descriptions of a 18ct white gold eternity ring been made from the started
+  * Link to the contact page
+
+#### repair.html
+* Repair Service
+  * Video showing the customer a ring been repaired
+  * List of all the services that Philip provides
+
+#### contact.html
+* Contact form
+  * Contact form for customers to get in contact with him about new and existing jobs.
+  * Required fields
 
 ### Features Left to Implement
-
-Another feature idea
-Technologies Used
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+* Javascript
+  * To link up the contact form for it to work correctly once I have studied it
+  * To have the images more responsive in the designs page
 
 ## Tech Used
 
