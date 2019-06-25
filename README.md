@@ -1,8 +1,11 @@
 # The Philip Bramley Designs Website
 
-My project was designed for Philip Bramley who is a jewellery designer. This website is a site that will give us an insight into Philip Bramley the Jewellery Designer. It will show case Philip himself and the work that he can do with old and new jewellery.
+My project was designed for Philip Bramley who is a jewellery designer. This website is a site that will give us an insight into Philip Bramley the Jewellery Designer. 
+It will show case Philip himself and the work that he can do with old and new jewellery.
 
-The opening page of my project .
+The opening page of my project gives us a brief history about Philip and were he studied and trained over the years, which gives us a view into the amount of experience and talent he has. Also the image on top of every page
+shows Philip working on a piece of jewellery at his work station so who ever clicks on his webpage will have a visual to show them what it is about.
+On the 
 
 ## UX
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
@@ -10,7 +13,15 @@ Use this section to provide insight into your UX process, focusing on who this w
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
 
 As a user type, I want to perform an action, so that I can achieve a goal.
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. 
+These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+
+### Mockups
+* I did my mockups in Balsamiq click on each page and it will bring you to each mochup page 
+  * [Home](https://balsamiq.cloud/sv1dkhs/pxziss6/r2278)
+  * [Designs](https://balsamiq.cloud/sv1dkhs/pxziss6/rD725)
+  * [Repair](https://balsamiq.cloud/sv1dkhs/pxziss6/r6652)
+  * [Contact](https://balsamiq.cloud/sv1dkhs/pxziss6/rFCAE)
 
 ## Features
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
@@ -115,29 +126,34 @@ I copied and pasted all of my work across to this repositorie to finish.
 * The HTML code was put through a validator every so often to make sure that it worked ok
 
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
 ## Deployment
 
-In Cloud9 I deployed my project by pushing it in terminal window ( in bash ) to my Github repository named milestone-project-1 via the command line.  Each time an edit was done I would save it to my [GitHub](https://github.com/Stubo087/first-milestone-project.git)
+In Cloud9 I deployed my project by pushing it in terminal window ( in bash ) to my Github repository named milestone-project-1 via the command line.  Each time an edit was done
+I would save it to my [GitHub](https://github.com/Stubo087/first-milestone-project.git)
 My GitHub page was built from the Master Branch.
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
-
-
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-
-Different values for environment variables (Heroku Config Vars)?
-Different configuration files?
-Separate git branch?
-In addition, if it is not obvious, you should also describe how to run your code locally.
-
 ## Credits
-Content
-The text for section Y was copied from the Wikipedia article Z
-Media
-The photos used in this site were obtained from ...
-Acknowledgements
-I received inspiration for this project from X
+
+### Content
+
+#### index.html
+
+* The content used in the index.html page was given to me by Philip Bramley 
+* The price list that is down loadable in the footer was also given to me by Philip Bramley
+
+#### designs.html
+
+* The information on this page was taken off Philip Bramley's [facebook](https://www.facebook.com/Philip-bramley-374922282597568/?__tn__=%2Cd%2CP-R&eid=ARCZAybqDDdlilqc4x09J8TfQUGRWDTW07HAjPx8vCEvHeSQJt-x0x2z-CtrKp9uvUjp27b9A4U7dffH) account
+
+#### repair.html
+
+* The information on the repair service page was also given to me by Philip Bramley 
+
+### Media
+
+All of the images and video were obtained from Philip Bramley
+
+## Acknowledgements
+
+* Thank you to my mentor, Antoijia Simic who was a great help to me in showing how I should design my website to make it look modern, showed me examples
+* Antoijia also past on her vast knowlege of different aspects to do with making and designing my project.
